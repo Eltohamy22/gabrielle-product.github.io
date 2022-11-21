@@ -108,7 +108,7 @@ i{
 .card {
     width: 400px;
     margin: 0 auto;
-    padding: 10rem;
+    padding: 8rem;
     display: grid;
     max-width: 1400px;
     grid-template-columns: 300px 300px;
@@ -159,7 +159,7 @@ i{
 }
 .btn{
     width: 250px;
-    margin: 0 2rem;
+    margin: 1.5rem 1rem;
     margin-bottom: 1rem;
 }
 i{
@@ -167,6 +167,6 @@ i{
 }
 .attribution {
     text-align: center;
-    margin-top: 50px;
+    margin-top: 0;
 }
 }
