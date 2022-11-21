@@ -108,7 +108,7 @@ i{
 .card {
     width: 400px;
     margin: 0 auto;
-    padding: 20rem;
+    padding: 10rem;
     display: grid;
     max-width: 1400px;
     grid-template-columns: 300px 300px;
